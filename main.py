@@ -3,6 +3,8 @@ from game import person
 magic = [{"name": "fire", "cost": 10, "dmg": 100},
          {"name": "thunder", "cost": 12, "dmg": 124},
          {"name": "blizzard", "cost": 10, "dmg": 100}]
+#okay so when i run this code it gives me an error getting pissy at the str being used in line 52 i even looked this up but i only got other peoples confusing codes
+#that gave me absolutely no help
 
 
 player = person(460, 65, 60, 34, magic)
